@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Lokendra Kumar
 
-### 💻 Full Stack Developer | Cyber Security Enthusiast | CSE Student
+### 💻 Full Stack Developer | CSE Student | Cyber Security Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+%7C+C+%7C+JavaScript;Cyber+Security+Enthusiast;Building+Real-World+Projects;Learning+DSA+%26+DAA;GATE+2027+Aspirant" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+%7C+C+%7C+Python+Developer;JavaScript+%7C+React.js+%7C+Node.js;Building+Real-World+Projects;Learning+DSA+%26+DAA;GATE+2027+Aspirant" />
 
 <br/>
 
@@ -16,22 +16,24 @@
 
 # 🚀 About Me
 
-I'm a **Computer Science Engineering student** who enjoys building
-real-world applications, learning new technologies, solving programming
-problems and exploring cybersecurity.
+I'm a **Computer Science Engineering student** passionate about
+software development, web technologies, programming, cybersecurity,
+and building real-world applications.
 
-I believe in learning by building and continuously improving my technical
-skills through practical projects.
+I enjoy learning new technologies, solving programming problems,
+and converting ideas into practical projects.
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 💻 Full Stack Developer
-- 🌐 MERN Stack Enthusiast
+- 💻 Full Stack Web Developer
+- 🌐 MERN Stack Developer
 - 🔐 Cyber Security Enthusiast
-- ☕ Learning Java
-- 🧠 Practicing C Programming, DSA & DAA
+- ☕ Java Programmer
+- 🐍 Python Programmer
+- 💻 C Programmer
+- 🧠 Learning Data Structures & Algorithms
+- ⚡ Learning Design & Analysis of Algorithms
 - 🎯 Preparing for GATE 2027
 - 🚀 Building real-world projects
-- 📚 Exploring new technologies
 - 🤝 Interested in collaboration and open-source
 
 ---
@@ -39,10 +41,12 @@ skills through practical projects.
 # 🧑‍💻 Developer Profile
 
 ```text
-Name        : Lokendra Kumar
-Role        : Full Stack Developer
-Education   : B.Tech CSE
-University  : Shri Ramswaroop Memorial University
-Focus       : Web Development + DSA + Cyber Security
-Preparation : GATE 2027
-Location    : India
+👨‍💻 Name          : Lokendra Kumar
+🎓 Education       : B.Tech Computer Science Engineering
+🏫 University      : Shri Ramswaroop Memorial University
+💻 Role            : Full Stack Developer
+🌐 Specialization  : MERN Stack
+🔐 Interest        : Cyber Security
+🧠 Current Focus   : DSA + DAA
+🎯 Preparation     : GATE 2027
+🚀 Passion         : Building Real-World Applications
