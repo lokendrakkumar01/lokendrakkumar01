@@ -1,16 +1,48 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**lokendrakkumar01/lokendrakkumar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Lokendra Kumar
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer | Cyber Security Enthusiast | CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+%7C+C+%7C+JavaScript;Cyber+Security+Enthusiast;Building+Real-World+Projects;Learning+DSA+%26+DAA;GATE+2027+Aspirant" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=lokendrakkumar01&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a **Computer Science Engineering student** who enjoys building
+real-world applications, learning new technologies, solving programming
+problems and exploring cybersecurity.
+
+I believe in learning by building and continuously improving my technical
+skills through practical projects.
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Full Stack Developer
+- 🌐 MERN Stack Enthusiast
+- 🔐 Cyber Security Enthusiast
+- ☕ Learning Java
+- 🧠 Practicing C Programming, DSA & DAA
+- 🎯 Preparing for GATE 2027
+- 🚀 Building real-world projects
+- 📚 Exploring new technologies
+- 🤝 Interested in collaboration and open-source
+
+---
+
+# 🧑‍💻 Developer Profile
+
+```text
+Name        : Lokendra Kumar
+Role        : Full Stack Developer
+Education   : B.Tech CSE
+University  : Shri Ramswaroop Memorial University
+Focus       : Web Development + DSA + Cyber Security
+Preparation : GATE 2027
+Location    : India
